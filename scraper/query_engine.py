@@ -40,7 +40,9 @@ class PlayerQueryEngine:
 			if stat.lower() == 'date' or stat.lower() == 'opp_team':
 				select_stats += stat + ', '
 			else:
-				select_stats += 'printf("%.2f", ' + stat + '), '
+				#select_stats += 'printf("%.2f", ' + stat + '), '
+				select_stats += 'avg(' + stat + '), '
+
 		
 		#Truncate extra comma and space at end, if there was at least one entry for query stats
 		if len(query_stats) > 0:
@@ -59,6 +61,7 @@ class PlayerQueryEngine:
 		for stat in query_stats:
 			if stat.lower() != 'date' and stat.lower() != 'opp_team':
 				#select_stats += 'printf("%.2f", avg(' + stat + ')), '
+				select_stats += 'avg(' + stat + '), '
 			if stat.lower() == 'date':
 				select_stats += 'date, '
 		
