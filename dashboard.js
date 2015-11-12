@@ -46,7 +46,7 @@ var PlayerCard = React.createClass({
     			<p>{comment}</p>
 			)
 		});	
-		var headers = ['Date', 'OPP', 'PTS', 'MP', 'BS', 'A', 'ST', 'REB', 'TO', 'FPS']
+		var headers = ['Date', 'OPP', 'MP', 'PTS', 'REB', 'A', 'ST', 'BS', 'TO', 'FPS']
 		var lastFiveGamesTable = this.createStatTable(headers, this.props.playerData.player_data.last_5_games);
 		
 		// Note: Avg'ed and STD data is only one dimensional, so wrap it in an array so that you can feed it 

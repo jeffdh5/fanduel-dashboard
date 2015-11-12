@@ -34,7 +34,7 @@ for c in range(1, nrows):
 	pts = row_values[22]
 	fantasy_points = (rebounds*1.2) + (assists*1.5) + (blocks*2) + (steals*2) + pts - turnovers
 
-	row_values.append(fantasy_points)
+	row_values.append(round(fantasy_points, 1))
 	data.append(row_values)
 
 row = xl_sheet.row(1)
