@@ -55,7 +55,7 @@ var PlayerCard = React.createClass({
 		var lastFiveAvgTable = null;
 		var lastFiveStdTable = null;
 
-		var headersWithoutTextColumns = ['PTS', 'MP', 'BS', 'A', 'ST', 'REB', 'TO', 'FPS']
+		var headersWithoutTextColumns = ['MP', 'PTS', 'REB', 'A', 'ST', 'BS', 'TO', 'FPS']
 
 		if (this.props.playerData.player_data.last_5_games_avg) {
 			lastFiveAvgTable = this.createStatTable(headersWithoutTextColumns, [this.props.playerData.player_data.last_5_games_avg]);
