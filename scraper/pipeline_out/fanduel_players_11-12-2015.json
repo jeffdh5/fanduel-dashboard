@@ -1,0 +1,350 @@
+{
+    "Adreian Payne": {
+        "FPPG": 9.6999999999999993, 
+        "salary": 3600
+    }, 
+    "Alec Burks": {
+        "FPPG": 23.800000000000001, 
+        "salary": 5500
+    }, 
+    "Alex Len": {
+        "FPPG": 13.699999999999999, 
+        "salary": 4100
+    }, 
+    "Amar'e Stoudemire": {
+        "FPPG": 5.5999999999999996, 
+        "salary": 3900
+    }, 
+    "Andre Iguodala": {
+        "FPPG": 22.899999999999999, 
+        "salary": 4700
+    }, 
+    "Andre Miller": {
+        "FPPG": 2.0, 
+        "salary": 3500
+    }, 
+    "Andrew Bogut": {
+        "FPPG": 25.199999999999999, 
+        "salary": 5400
+    }, 
+    "Andrew Wiggins": {
+        "FPPG": 26.399999999999999, 
+        "salary": 7200
+    }, 
+    "Archie Goodwin": {
+        "FPPG": 7.2999999999999998, 
+        "salary": 3500
+    }, 
+    "Austin Rivers": {
+        "FPPG": 11.0, 
+        "salary": 3500
+    }, 
+    "Beno Udrih": {
+        "FPPG": 11.699999999999999, 
+        "salary": 3500
+    }, 
+    "Blake Griffin": {
+        "FPPG": 46.799999999999997, 
+        "salary": 10200
+    }, 
+    "Branden Dawson": {
+        "FPPG": 0.0, 
+        "salary": 3500
+    }, 
+    "Brandon Knight": {
+        "FPPG": 30.5, 
+        "salary": 6700
+    }, 
+    "Brandon Rush": {
+        "FPPG": 5.5999999999999996, 
+        "salary": 3500
+    }, 
+    "C.J. Wilcox": {
+        "FPPG": 2.7999999999999998, 
+        "salary": 3500
+    }, 
+    "Chris Andersen": {
+        "FPPG": 2.8999999999999999, 
+        "salary": 3500
+    }, 
+    "Chris Bosh": {
+        "FPPG": 35.0, 
+        "salary": 8000
+    }, 
+    "Chris Johnson": {
+        "FPPG": 3.0, 
+        "salary": 3500
+    }, 
+    "Chris Paul": {
+        "FPPG": 32.600000000000001, 
+        "salary": 9100
+    }, 
+    "Cole Aldrich": {
+        "FPPG": 0.5, 
+        "salary": 3600
+    }, 
+    "Cory Jefferson": {
+        "FPPG": 8.5, 
+        "salary": 3500
+    }, 
+    "Damjan Rudez": {
+        "FPPG": 2.6000000000000001, 
+        "salary": 3500
+    }, 
+    "DeAndre Jordan": {
+        "FPPG": 34.5, 
+        "salary": 8000
+    }, 
+    "Derrick Favors": {
+        "FPPG": 32.899999999999999, 
+        "salary": 7800
+    }, 
+    "Devin Booker": {
+        "FPPG": 7.0, 
+        "salary": 3500
+    }, 
+    "Draymond Green": {
+        "FPPG": 32.200000000000003, 
+        "salary": 7800
+    }, 
+    "Dwyane Wade": {
+        "FPPG": 29.100000000000001, 
+        "salary": 6900
+    }, 
+    "Elijah Millsap": {
+        "FPPG": 1.5, 
+        "salary": 3500
+    }, 
+    "Eric Bledsoe": {
+        "FPPG": 37.899999999999999, 
+        "salary": 8300
+    }, 
+    "Festus Ezeli": {
+        "FPPG": 22.5, 
+        "salary": 4300
+    }, 
+    "Gerald Green": {
+        "FPPG": 10.6, 
+        "salary": 3600
+    }, 
+    "Goran Dragic": {
+        "FPPG": 19.600000000000001, 
+        "salary": 5600
+    }, 
+    "Gordon Hayward": {
+        "FPPG": 24.199999999999999, 
+        "salary": 6600
+    }, 
+    "Gorgui Dieng": {
+        "FPPG": 13.699999999999999, 
+        "salary": 4100
+    }, 
+    "Harrison Barnes": {
+        "FPPG": 23.5, 
+        "salary": 5100
+    }, 
+    "Hassan Whiteside": {
+        "FPPG": 36.200000000000003, 
+        "salary": 8300
+    }, 
+    "Ian Clark": {
+        "FPPG": 7.5, 
+        "salary": 3500
+    }, 
+    "J.J. Redick": {
+        "FPPG": 19.399999999999999, 
+        "salary": 4800
+    }, 
+    "Jamal Crawford": {
+        "FPPG": 14.9, 
+        "salary": 4400
+    }, 
+    "James Michael McAdoo": {
+        "FPPG": 5.0999999999999996, 
+        "salary": 3500
+    }, 
+    "Jarnell Stokes": {
+        "FPPG": 1.2, 
+        "salary": 3500
+    }, 
+    "Jason Thompson": {
+        "FPPG": 7.2999999999999998, 
+        "salary": 4300
+    }, 
+    "Jeff Withey": {
+        "FPPG": 0.0, 
+        "salary": 3500
+    }, 
+    "Joe Ingles": {
+        "FPPG": 11.300000000000001, 
+        "salary": 3500
+    }, 
+    "Jon Leuer": {
+        "FPPG": 14.0, 
+        "salary": 3500
+    }, 
+    "Josh McRoberts": {
+        "FPPG": 8.5999999999999996, 
+        "salary": 3600
+    }, 
+    "Josh Richardson": {
+        "FPPG": 2.5, 
+        "salary": 3500
+    }, 
+    "Josh Smith": {
+        "FPPG": 13.800000000000001, 
+        "salary": 4200
+    }, 
+    "Justise Winslow": {
+        "FPPG": 15.6, 
+        "salary": 3700
+    }, 
+    "Karl-Anthony Towns": {
+        "FPPG": 35.299999999999997, 
+        "salary": 7100
+    }, 
+    "Kevin Garnett": {
+        "FPPG": 12.1, 
+        "salary": 3700
+    }, 
+    "Kevin Martin": {
+        "FPPG": 20.600000000000001, 
+        "salary": 5000
+    }, 
+    "Klay Thompson": {
+        "FPPG": 25.600000000000001, 
+        "salary": 6800
+    }, 
+    "Lance Stephenson": {
+        "FPPG": 12.6, 
+        "salary": 3500
+    }, 
+    "Leandro Barbosa": {
+        "FPPG": 12.0, 
+        "salary": 3700
+    }, 
+    "Luc Richard Mbah a Moute": {
+        "FPPG": 0.29999999999999999, 
+        "salary": 3500
+    }, 
+    "Luol Deng": {
+        "FPPG": 18.600000000000001, 
+        "salary": 5300
+    }, 
+    "Markieff Morris": {
+        "FPPG": 23.399999999999999, 
+        "salary": 5800
+    }, 
+    "Marreese Speights": {
+        "FPPG": 12.1, 
+        "salary": 3500
+    }, 
+    "Mirza Teletovic": {
+        "FPPG": 4.5999999999999996, 
+        "salary": 3500
+    }, 
+    "Nemanja Bjelica": {
+        "FPPG": 22.800000000000001, 
+        "salary": 4600
+    }, 
+    "Nikola Pekovic": {
+        "FPPG": 23.5, 
+        "salary": 4800
+    }, 
+    "P.J. Tucker": {
+        "FPPG": 12.199999999999999, 
+        "salary": 4100
+    }, 
+    "Pablo Prigioni": {
+        "FPPG": 3.3999999999999999, 
+        "salary": 3500
+    }, 
+    "Paul Pierce": {
+        "FPPG": 13.199999999999999, 
+        "salary": 3700
+    }, 
+    "Raul Neto": {
+        "FPPG": 10.0, 
+        "salary": 3500
+    }, 
+    "Ricky Rubio": {
+        "FPPG": 34.399999999999999, 
+        "salary": 7400
+    }, 
+    "Rodney Hood": {
+        "FPPG": 21.5, 
+        "salary": 4500
+    }, 
+    "Ronnie Price": {
+        "FPPG": 9.5999999999999996, 
+        "salary": 3500
+    }, 
+    "Rudy Gobert": {
+        "FPPG": 31.800000000000001, 
+        "salary": 7700
+    }, 
+    "Shabazz Muhammad": {
+        "FPPG": 9.5999999999999996, 
+        "salary": 3500
+    }, 
+    "Shaun Livingston": {
+        "FPPG": 10.4, 
+        "salary": 3500
+    }, 
+    "Sonny Weems": {
+        "FPPG": 4.0999999999999996, 
+        "salary": 3500
+    }, 
+    "Stephen Curry": {
+        "FPPG": 50.0, 
+        "salary": 10700
+    }, 
+    "T.J. Warren": {
+        "FPPG": 15.6, 
+        "salary": 3800
+    }, 
+    "Tayshaun Prince": {
+        "FPPG": 8.9000000000000004, 
+        "salary": 3500
+    }, 
+    "Tibor Pleiss": {
+        "FPPG": 1.6000000000000001, 
+        "salary": 3500
+    }, 
+    "Trevor Booker": {
+        "FPPG": 12.5, 
+        "salary": 3900
+    }, 
+    "Trey Burke": {
+        "FPPG": 19.5, 
+        "salary": 5300
+    }, 
+    "Trey Lyles": {
+        "FPPG": 3.6000000000000001, 
+        "salary": 3500
+    }, 
+    "Tyler Johnson": {
+        "FPPG": 14.699999999999999, 
+        "salary": 3800
+    }, 
+    "Tyson Chandler": {
+        "FPPG": 22.5, 
+        "salary": 5700
+    }, 
+    "Tyus Jones": {
+        "FPPG": 5.7000000000000002, 
+        "salary": 3500
+    }, 
+    "Udonis Haslem": {
+        "FPPG": 5.2000000000000002, 
+        "salary": 3500
+    }, 
+    "Wesley Johnson": {
+        "FPPG": 7.4000000000000004, 
+        "salary": 3600
+    }, 
+    "Zach LaVine": {
+        "FPPG": 19.5, 
+        "salary": 5600
+    }
+}

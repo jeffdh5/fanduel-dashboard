@@ -1,0 +1,500 @@
+[
+    {
+        "away": "PHI", 
+        "away_depth": {
+            "injured": [
+                "Tony Wroten", 
+                "Kendall Marshall", 
+                "Robert Covington", 
+                "Jerami Grant", 
+                "Carl Landry", 
+                "Joel Embiid"
+            ], 
+            "positions": {
+                "C": [
+                    "Jahlil Okafor", 
+                    "Joel Embiid"
+                ], 
+                "PF": [
+                    "Nerlens Noel", 
+                    "Richaun Holmes", 
+                    "Carl Landry", 
+                    "Christian Wood", 
+                    "Luka Mitrovic"
+                ], 
+                "PG": [
+                    "T.J. McConnell", 
+                    "Isaiah Canaan", 
+                    "Phil Pressey", 
+                    "Tony Wroten", 
+                    "Kendall Marshall"
+                ], 
+                "SF": [
+                    "Robert Covington", 
+                    "Jerami Grant", 
+                    "JaKarr Sampson"
+                ], 
+                "SG": [
+                    "Nik Stauskas", 
+                    "Hollis Thompson"
+                ]
+            }
+        }, 
+        "date": "11/09/2015", 
+        "home": "CHI", 
+        "home_depth": {
+            "injured": [
+                "Kirk Hinrich", 
+                "Mike Dunleavy"
+            ], 
+            "positions": {
+                "C": [
+                    "Pau Gasol", 
+                    "Joakim Noah", 
+                    "Cameron Bairstow"
+                ], 
+                "PF": [
+                    "Nikola Mirotic", 
+                    "Taj Gibson", 
+                    "Bobby Portis", 
+                    "Cristiano Felicio"
+                ], 
+                "PG": [
+                    "Derrick Rose", 
+                    "Aaron Brooks", 
+                    "Kirk Hinrich"
+                ], 
+                "SF": [
+                    "Tony Snell", 
+                    "Doug McDermott", 
+                    "Mike Dunleavy"
+                ], 
+                "SG": [
+                    "Jimmy Butler", 
+                    "E'Twaun Moore"
+                ]
+            }
+        }
+    }, 
+    {
+        "away": "GSW", 
+        "away_depth": {
+            "injured": [
+                "Kevon Looney", 
+                "Andrew Bogut"
+            ], 
+            "positions": {
+                "C": [
+                    "Andrew Bogut", 
+                    "Festus Ezeli", 
+                    "Jason Thompson"
+                ], 
+                "PF": [
+                    "Draymond Green", 
+                    "Marreese Speights", 
+                    "James Michael McAdoo", 
+                    "Kevon Looney"
+                ], 
+                "PG": [
+                    "Stephen Curry", 
+                    "Shaun Livingston"
+                ], 
+                "SF": [
+                    "Harrison Barnes", 
+                    "Andre Iguodala"
+                ], 
+                "SG": [
+                    "Klay Thompson", 
+                    "Leandro Barbosa", 
+                    "Brandon Rush", 
+                    "Ian Clark"
+                ]
+            }
+        }, 
+        "date": "11/09/2015", 
+        "home": "DET", 
+        "home_depth": {
+            "injured": [
+                "Brandon Jennings", 
+                "Jodie Meeks"
+            ], 
+            "positions": {
+                "C": [
+                    "Andre Drummond", 
+                    "Aron Baynes", 
+                    "Joel Anthony"
+                ], 
+                "PF": [
+                    "Ersan Ilyasova", 
+                    "Anthony Tolliver"
+                ], 
+                "PG": [
+                    "Reggie Jackson", 
+                    "Steve Blake", 
+                    "Brandon Jennings", 
+                    "Spencer Dinwiddie"
+                ], 
+                "SF": [
+                    "Marcus Morris", 
+                    "Stanley Johnson", 
+                    "Reggie Bullock"
+                ], 
+                "SG": [
+                    "Kentavious Caldwell-Pope", 
+                    "Jodie Meeks", 
+                    "Darrun Hilliard"
+                ]
+            }
+        }
+    }, 
+    {
+        "away": "LAC", 
+        "away_depth": {
+            "injured": [
+                "Chris Paul"
+            ], 
+            "positions": {
+                "C": [
+                    "DeAndre Jordan", 
+                    "Cole Aldrich"
+                ], 
+                "PF": [
+                    "Blake Griffin", 
+                    "Josh Smith"
+                ], 
+                "PG": [
+                    "Chris Paul", 
+                    "Austin Rivers", 
+                    "Pablo Prigioni"
+                ], 
+                "SF": [
+                    "Lance Stephenson", 
+                    "Paul Pierce", 
+                    "Wes Johnson"
+                ], 
+                "SG": [
+                    "J.J. Redick", 
+                    "Jamal Crawford"
+                ]
+            }
+        }, 
+        "date": "11/09/2015", 
+        "home": "MEM", 
+        "home_depth": {
+            "injured": [
+                "Jordan Adams", 
+                "Jarell Martin", 
+                "Brandan Wright"
+            ], 
+            "positions": {
+                "C": [
+                    "Marc Gasol", 
+                    "Brandan Wright"
+                ], 
+                "PF": [
+                    "Zach Randolph", 
+                    "Jarnell Stokes", 
+                    "JaMychal Green", 
+                    "Jarell Martin"
+                ], 
+                "PG": [
+                    "Mike Conley", 
+                    "Beno Udrih", 
+                    "Andrew Harrison", 
+                    "Russ Smith"
+                ], 
+                "SF": [
+                    "Jeff Green", 
+                    "Tony Allen"
+                ], 
+                "SG": [
+                    "Courtney Lee", 
+                    "Matt Barnes", 
+                    "Vince Carter", 
+                    "Jordan Adams"
+                ]
+            }
+        }
+    }, 
+    {
+        "away": "ATL", 
+        "away_depth": {
+            "injured": [
+                "Tiago Splitter"
+            ], 
+            "positions": {
+                "C": [
+                    "Al Horford", 
+                    "Tiago Splitter", 
+                    "Walter Tavares"
+                ], 
+                "PF": [
+                    "Paul Millsap", 
+                    "Mike Scott", 
+                    "Mike Muscala"
+                ], 
+                "PG": [
+                    "Jeff Teague", 
+                    "Dennis Schroder", 
+                    "Shelvin Mack", 
+                    "Lamar Patterson"
+                ], 
+                "SF": [
+                    "Kent Bazemore", 
+                    "Thabo Sefolosha"
+                ], 
+                "SG": [
+                    "Kyle Korver", 
+                    "Tim Hardaway Jr.", 
+                    "Justin Holiday"
+                ]
+            }
+        }, 
+        "date": "11/09/2015", 
+        "home": "MIN", 
+        "home_depth": {
+            "injured": [
+                "Kevin Martin", 
+                "Nikola Pekovic"
+            ], 
+            "positions": {
+                "C": [
+                    "Karl-Anthony Towns", 
+                    "Gorgui Dieng", 
+                    "Nikola Pekovic"
+                ], 
+                "PF": [
+                    "Kevin Garnett", 
+                    "Nemanja Bjelica", 
+                    "Adreian Payne"
+                ], 
+                "PG": [
+                    "Ricky Rubio", 
+                    "Zach LaVine", 
+                    "Andre Miller", 
+                    "Tyus Jones"
+                ], 
+                "SF": [
+                    "Tayshaun Prince", 
+                    "Shabazz Muhammad", 
+                    "Damjan Rudez"
+                ], 
+                "SG": [
+                    "Andrew Wiggins", 
+                    "Kevin Martin"
+                ]
+            }
+        }
+    }, 
+    {
+        "away": "IND", 
+        "away_depth": {
+            "injured": [
+                "Rodney Stuckey", 
+                "C.J. Miles"
+            ], 
+            "positions": {
+                "C": [
+                    "Ian Mahinmi", 
+                    "Myles Turner"
+                ], 
+                "PF": [
+                    "Paul George", 
+                    "Jordan Hill", 
+                    "Lavoy Allen", 
+                    "Rakeem Christmas"
+                ], 
+                "PG": [
+                    "George Hill", 
+                    "Joseph Young"
+                ], 
+                "SF": [
+                    "C.J. Miles", 
+                    "Chase Budinger", 
+                    "Solomon Hill", 
+                    "Glenn Robinson III"
+                ], 
+                "SG": [
+                    "Monta Ellis", 
+                    "Rodney Stuckey"
+                ]
+            }
+        }, 
+        "date": "11/09/2015", 
+        "home": "ORL", 
+        "home_depth": {
+            "injured": [
+                "Nikola Vucevic"
+            ], 
+            "positions": {
+                "C": [
+                    "Nikola Vucevic", 
+                    "Dewayne Dedmon", 
+                    "Jason Smith"
+                ], 
+                "PF": [
+                    "Tobias Harris", 
+                    "Channing Frye", 
+                    "Andrew Nicholson"
+                ], 
+                "PG": [
+                    "Elfrid Payton", 
+                    "C.J. Watson", 
+                    "Shabazz Napier"
+                ], 
+                "SF": [
+                    "Aaron Gordon", 
+                    "Mario Hezonja"
+                ], 
+                "SG": [
+                    "Victor Oladipo", 
+                    "Evan Fournier", 
+                    "Devyn Marble", 
+                    "Tyler Harvey"
+                ]
+            }
+        }
+    }, 
+    {
+        "away": "DEN", 
+        "away_depth": {
+            "injured": [
+                "Wilson Chandler", 
+                "Joffrey Lauvergne", 
+                "Jusuf Nurkic"
+            ], 
+            "positions": {
+                "C": [
+                    "Joffrey Lauvergne", 
+                    "Nikola Jokic", 
+                    "Jusuf Nurkic"
+                ], 
+                "PF": [
+                    "Kenneth Faried", 
+                    "Wilson Chandler", 
+                    "J.J. Hickson", 
+                    "Kostas Papanikolaou", 
+                    "Darrell Arthur"
+                ], 
+                "PG": [
+                    "Emmanuel Mudiay", 
+                    "Jameer Nelson"
+                ], 
+                "SF": [
+                    "Danilo Gallinari", 
+                    "Will Barton"
+                ], 
+                "SG": [
+                    "Gary Harris", 
+                    "Randy Foye", 
+                    "Jamaal Franklin"
+                ]
+            }
+        }, 
+        "date": "11/09/2015", 
+        "home": "POR", 
+        "home_depth": {
+            "injured": [
+                "Gerald Henderson", 
+                "Cliff Alexander"
+            ], 
+            "positions": {
+                "C": [
+                    "Mason Plumlee", 
+                    "Ed Davis", 
+                    "Chris Kaman"
+                ], 
+                "PF": [
+                    "Meyers Leonard", 
+                    "Noah Vonleh", 
+                    "Cliff Alexander"
+                ], 
+                "PG": [
+                    "Damian Lillard", 
+                    "Tim Frazier"
+                ], 
+                "SF": [
+                    "Al-Farouq Aminu", 
+                    "Moe Harkless", 
+                    "Luis Montero"
+                ], 
+                "SG": [
+                    "C.J. McCollum", 
+                    "Gerald Henderson", 
+                    "Allen Crabbe", 
+                    "Pat Connaughton", 
+                    "Daniel Diez"
+                ]
+            }
+        }
+    }, 
+    {
+        "away": "SAC", 
+        "away_depth": {
+            "injured": [
+                "Darren Collison", 
+                "Seth Curry", 
+                "DeMarcus Cousins"
+            ], 
+            "positions": {
+                "C": [
+                    "Willie Cauley-Stein", 
+                    "Kosta Koufos"
+                ], 
+                "PF": [
+                    "DeMarcus Cousins", 
+                    "Quincy Acy", 
+                    "Eric Moreland"
+                ], 
+                "PG": [
+                    "Rajon Rondo", 
+                    "Darren Collison"
+                ], 
+                "SF": [
+                    "Rudy Gay", 
+                    "Omri Casspi", 
+                    "Caron Butler"
+                ], 
+                "SG": [
+                    "Ben McLemore", 
+                    "Marco Belinelli", 
+                    "James Anderson", 
+                    "Seth Curry"
+                ]
+            }
+        }, 
+        "date": "11/09/2015", 
+        "home": "SAS", 
+        "home_depth": {
+            "injured": [], 
+            "positions": {
+                "C": [
+                    "Tim Duncan", 
+                    "Matt Bonner", 
+                    "Boban Marjanovic", 
+                    "Cady Lalanne"
+                ], 
+                "PF": [
+                    "LaMarcus Aldridge", 
+                    "David West", 
+                    "Boris Diaw"
+                ], 
+                "PG": [
+                    "Tony Parker", 
+                    "Patty Mills", 
+                    "Ray McCallum"
+                ], 
+                "SF": [
+                    "Kawhi Leonard", 
+                    "Kyle Anderson"
+                ], 
+                "SG": [
+                    "Danny Green", 
+                    "Manu Ginobili", 
+                    "Rasual Butler", 
+                    "Jonathon Simmons"
+                ]
+            }
+        }
+    }
+]

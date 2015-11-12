@@ -1,0 +1,350 @@
+[
+    {
+        "away": "POR", 
+        "away_depth": {
+            "injured": [
+                "Gerald Henderson", 
+                "Cliff Alexander"
+            ], 
+            "positions": {
+                "C": [
+                    "Mason Plumlee", 
+                    "Ed Davis", 
+                    "Chris Kaman"
+                ], 
+                "PF": [
+                    "Meyers Leonard", 
+                    "Noah Vonleh", 
+                    "Cliff Alexander"
+                ], 
+                "PG": [
+                    "Damian Lillard", 
+                    "Tim Frazier"
+                ], 
+                "SF": [
+                    "Al-Farouq Aminu", 
+                    "Moe Harkless", 
+                    "Luis Montero"
+                ], 
+                "SG": [
+                    "C.J. McCollum", 
+                    "Gerald Henderson", 
+                    "Allen Crabbe", 
+                    "Pat Connaughton", 
+                    "Daniel Diez"
+                ]
+            }
+        }, 
+        "date": "11/08/2015", 
+        "home": "DET", 
+        "home_depth": {
+            "injured": [
+                "Brandon Jennings", 
+                "Jodie Meeks"
+            ], 
+            "positions": {
+                "C": [
+                    "Andre Drummond", 
+                    "Aron Baynes", 
+                    "Joel Anthony"
+                ], 
+                "PF": [
+                    "Ersan Ilyasova", 
+                    "Anthony Tolliver"
+                ], 
+                "PG": [
+                    "Reggie Jackson", 
+                    "Steve Blake", 
+                    "Brandon Jennings", 
+                    "Spencer Dinwiddie"
+                ], 
+                "SF": [
+                    "Marcus Morris", 
+                    "Stanley Johnson", 
+                    "Reggie Bullock"
+                ], 
+                "SG": [
+                    "Kentavious Caldwell-Pope", 
+                    "Jodie Meeks", 
+                    "Darrun Hilliard"
+                ]
+            }
+        }
+    }, 
+    {
+        "away": "CLE", 
+        "away_depth": {
+            "injured": [
+                "Kyrie Irving", 
+                "J.R. Smith", 
+                "Iman Shumpert", 
+                "LeBron James"
+            ], 
+            "positions": {
+                "C": [
+                    "Timofey Mozgov", 
+                    "Anderson Varejao", 
+                    "Sasha Kaun"
+                ], 
+                "PF": [
+                    "Kevin Love", 
+                    "Tristan Thompson"
+                ], 
+                "PG": [
+                    "Kyrie Irving", 
+                    "Mo Williams", 
+                    "Matthew Dellavedova"
+                ], 
+                "SF": [
+                    "LeBron James", 
+                    "Richard Jefferson"
+                ], 
+                "SG": [
+                    "J.R. Smith", 
+                    "James Jones", 
+                    "Joe Harris", 
+                    "Iman Shumpert", 
+                    "Jared Cunningham"
+                ]
+            }
+        }, 
+        "date": "11/08/2015", 
+        "home": "IND", 
+        "home_depth": {
+            "injured": [
+                "Rodney Stuckey", 
+                "C.J. Miles"
+            ], 
+            "positions": {
+                "C": [
+                    "Ian Mahinmi", 
+                    "Myles Turner"
+                ], 
+                "PF": [
+                    "Paul George", 
+                    "Jordan Hill", 
+                    "Lavoy Allen", 
+                    "Rakeem Christmas"
+                ], 
+                "PG": [
+                    "George Hill", 
+                    "Joseph Young"
+                ], 
+                "SF": [
+                    "C.J. Miles", 
+                    "Chase Budinger", 
+                    "Solomon Hill", 
+                    "Glenn Robinson III"
+                ], 
+                "SG": [
+                    "Monta Ellis", 
+                    "Rodney Stuckey"
+                ]
+            }
+        }
+    }, 
+    {
+        "away": "NYK", 
+        "away_depth": {
+            "injured": [
+                "Arron Afflalo", 
+                "Lou Amundson"
+            ], 
+            "positions": {
+                "C": [
+                    "Robin Lopez", 
+                    "Kyle O'Quinn", 
+                    "Kevin Seraphin", 
+                    "Lou Amundson"
+                ], 
+                "PF": [
+                    "Kristaps Porzingis", 
+                    "Derrick Williams"
+                ], 
+                "PG": [
+                    "Jose Calderon", 
+                    "Jerian Grant"
+                ], 
+                "SF": [
+                    "Carmelo Anthony", 
+                    "Lance Thomas", 
+                    "Cleanthony Early"
+                ], 
+                "SG": [
+                    "Arron Afflalo", 
+                    "Langston Galloway", 
+                    "Sasha Vujacic"
+                ]
+            }
+        }, 
+        "date": "11/08/2015", 
+        "home": "LAL", 
+        "home_depth": {
+            "injured": [], 
+            "positions": {
+                "C": [
+                    "Roy Hibbert", 
+                    "Tarik Black", 
+                    "Robert Sacre"
+                ], 
+                "PF": [
+                    "Julius Randle", 
+                    "Brandon Bass", 
+                    "Larry Nance"
+                ], 
+                "PG": [
+                    "D'Angelo Russell", 
+                    "Lou Williams", 
+                    "Marcelo Huertas"
+                ], 
+                "SF": [
+                    "Kobe Bryant", 
+                    "Ryan Kelly", 
+                    "Metta World Peace", 
+                    "Anthony Brown"
+                ], 
+                "SG": [
+                    "Jordan Clarkson", 
+                    "Nick Young"
+                ]
+            }
+        }
+    }, 
+    {
+        "away": "OKC", 
+        "away_depth": {
+            "injured": [
+                "Steven Adams"
+            ], 
+            "positions": {
+                "C": [
+                    "Steven Adams", 
+                    "Enes Kanter", 
+                    "Dakari Johnson"
+                ], 
+                "PF": [
+                    "Serge Ibaka", 
+                    "Nick Collison", 
+                    "Mitch McGary"
+                ], 
+                "PG": [
+                    "Russell Westbrook", 
+                    "D.J. Augustin", 
+                    "Cameron Payne"
+                ], 
+                "SF": [
+                    "Kevin Durant", 
+                    "Kyle Singler", 
+                    "Steve Novak", 
+                    "Josh Huestis"
+                ], 
+                "SG": [
+                    "Andre Roberson", 
+                    "Anthony Morrow", 
+                    "Dion Waiters"
+                ]
+            }
+        }, 
+        "date": "11/08/2015", 
+        "home": "PHO", 
+        "home_depth": {
+            "injured": [], 
+            "positions": {
+                "C": [
+                    "Tyson Chandler", 
+                    "Alex Len"
+                ], 
+                "PF": [
+                    "Markieff Morris", 
+                    "Mirza Teletovic", 
+                    "Jon Leuer", 
+                    "Cory Jefferson"
+                ], 
+                "PG": [
+                    "Eric Bledsoe", 
+                    "Ronnie Price"
+                ], 
+                "SF": [
+                    "P.J. Tucker", 
+                    "T.J. Warren"
+                ], 
+                "SG": [
+                    "Brandon Knight", 
+                    "Sonny Weems", 
+                    "Archie Goodwin", 
+                    "Devin Booker"
+                ]
+            }
+        }
+    }, 
+    {
+        "away": "MIA", 
+        "away_depth": {
+            "injured": [
+                "Gerald Green", 
+                "Amare Stoudemire"
+            ], 
+            "positions": {
+                "C": [
+                    "Hassan Whiteside", 
+                    "Amare Stoudemire", 
+                    "Chris Andersen"
+                ], 
+                "PF": [
+                    "Chris Bosh", 
+                    "Josh McRoberts", 
+                    "Udonis Haslem"
+                ], 
+                "PG": [
+                    "Goran Dragic", 
+                    "Mario Chalmers", 
+                    "Tyler Johnson"
+                ], 
+                "SF": [
+                    "Luol Deng", 
+                    "Justise Winslow", 
+                    "James Ennis"
+                ], 
+                "SG": [
+                    "Dwyane Wade", 
+                    "Gerald Green", 
+                    "Josh Richardson"
+                ]
+            }
+        }, 
+        "date": "11/08/2015", 
+        "home": "TOR", 
+        "home_depth": {
+            "injured": [
+                "DeMarre Carroll"
+            ], 
+            "positions": {
+                "C": [
+                    "Jonas Valanciunas", 
+                    "Bismack Biyombo", 
+                    "Lucas Nogueira"
+                ], 
+                "PF": [
+                    "Luis Scola", 
+                    "Patrick Patterson", 
+                    "Anthony Bennett"
+                ], 
+                "PG": [
+                    "Kyle Lowry", 
+                    "Cory Joseph", 
+                    "Delon Wright"
+                ], 
+                "SF": [
+                    "DeMarre Carroll", 
+                    "James Johnson", 
+                    "Bruno Caboclo"
+                ], 
+                "SG": [
+                    "DeMar DeRozan", 
+                    "Terrence Ross", 
+                    "Norman Powell"
+                ]
+            }
+        }
+    }
+]

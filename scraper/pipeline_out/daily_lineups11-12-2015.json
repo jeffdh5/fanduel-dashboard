@@ -1,0 +1,207 @@
+[
+    {
+        "away": "MIN", 
+        "away_depth": {
+            "injured": [
+                "Ricky Rubio", 
+                "Andrew Wiggins", 
+                "Nikola Pekovic"
+            ], 
+            "positions": {
+                "C": [
+                    "Karl-Anthony Towns", 
+                    "Gorgui Dieng", 
+                    "Nikola Pekovic"
+                ], 
+                "PF": [
+                    "Kevin Garnett", 
+                    "Nemanja Bjelica", 
+                    "Adreian Payne"
+                ], 
+                "PG": [
+                    "Ricky Rubio", 
+                    "Zach LaVine", 
+                    "Andre Miller", 
+                    "Tyus Jones"
+                ], 
+                "SF": [
+                    "Tayshaun Prince", 
+                    "Shabazz Muhammad", 
+                    "Damjan Rudez"
+                ], 
+                "SG": [
+                    "Andrew Wiggins", 
+                    "Kevin Martin"
+                ]
+            }
+        }, 
+        "date": "11/12/2015", 
+        "home": "GSW", 
+        "home_depth": {
+            "injured": [
+                "Kevon Looney"
+            ], 
+            "positions": {
+                "C": [
+                    "Andrew Bogut", 
+                    "Festus Ezeli", 
+                    "Jason Thompson"
+                ], 
+                "PF": [
+                    "Draymond Green", 
+                    "Marreese Speights", 
+                    "James Michael McAdoo", 
+                    "Kevon Looney"
+                ], 
+                "PG": [
+                    "Stephen Curry", 
+                    "Shaun Livingston"
+                ], 
+                "SF": [
+                    "Harrison Barnes", 
+                    "Andre Iguodala"
+                ], 
+                "SG": [
+                    "Klay Thompson", 
+                    "Leandro Barbosa", 
+                    "Brandon Rush", 
+                    "Ian Clark"
+                ]
+            }
+        }
+    }, 
+    {
+        "away": "PHO", 
+        "away_depth": {
+            "injured": [], 
+            "positions": {
+                "C": [
+                    "Tyson Chandler", 
+                    "Alex Len"
+                ], 
+                "PF": [
+                    "Markieff Morris", 
+                    "Mirza Teletovic", 
+                    "Jon Leuer", 
+                    "Cory Jefferson"
+                ], 
+                "PG": [
+                    "Eric Bledsoe", 
+                    "Ronnie Price"
+                ], 
+                "SF": [
+                    "P.J. Tucker", 
+                    "T.J. Warren"
+                ], 
+                "SG": [
+                    "Brandon Knight", 
+                    "Sonny Weems", 
+                    "Archie Goodwin", 
+                    "Devin Booker"
+                ]
+            }
+        }, 
+        "date": "11/12/2015", 
+        "home": "LAC", 
+        "home_depth": {
+            "injured": [
+                "J.J. Redick"
+            ], 
+            "positions": {
+                "C": [
+                    "DeAndre Jordan", 
+                    "Cole Aldrich"
+                ], 
+                "PF": [
+                    "Blake Griffin", 
+                    "Josh Smith"
+                ], 
+                "PG": [
+                    "Chris Paul", 
+                    "Austin Rivers", 
+                    "Pablo Prigioni"
+                ], 
+                "SF": [
+                    "Lance Stephenson", 
+                    "Paul Pierce", 
+                    "Wes Johnson"
+                ], 
+                "SG": [
+                    "J.J. Redick", 
+                    "Jamal Crawford", 
+                    "C.J. Wilcox"
+                ]
+            }
+        }
+    }, 
+    {
+        "away": "MIA", 
+        "away_depth": {
+            "injured": [
+                "Gerald Green"
+            ], 
+            "positions": {
+                "C": [
+                    "Hassan Whiteside", 
+                    "Amare Stoudemire", 
+                    "Chris Andersen"
+                ], 
+                "PF": [
+                    "Chris Bosh", 
+                    "Josh McRoberts", 
+                    "Jarnell Stokes", 
+                    "Udonis Haslem"
+                ], 
+                "PG": [
+                    "Goran Dragic", 
+                    "Beno Udrih", 
+                    "Tyler Johnson"
+                ], 
+                "SF": [
+                    "Luol Deng", 
+                    "Justise Winslow"
+                ], 
+                "SG": [
+                    "Dwyane Wade", 
+                    "Gerald Green", 
+                    "Josh Richardson"
+                ]
+            }
+        }, 
+        "date": "11/12/2015", 
+        "home": "UTH", 
+        "home_depth": {
+            "injured": [
+                "Dante Exum", 
+                "Rudy Gobert"
+            ], 
+            "positions": {
+                "C": [
+                    "Rudy Gobert", 
+                    "Jeff Withey", 
+                    "Tibor Pleiss"
+                ], 
+                "PF": [
+                    "Derrick Favors", 
+                    "Trevor Booker", 
+                    "Trey Lyles"
+                ], 
+                "PG": [
+                    "Raul Neto", 
+                    "Trey Burke", 
+                    "Dante Exum"
+                ], 
+                "SF": [
+                    "Gordon Hayward", 
+                    "Elijah Millsap"
+                ], 
+                "SG": [
+                    "Rodney Hood", 
+                    "Alec Burks", 
+                    "Joe Ingles", 
+                    "Chris Johnson"
+                ]
+            }
+        }
+    }
+]
