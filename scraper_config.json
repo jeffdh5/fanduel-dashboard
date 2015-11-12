@@ -1,5 +1,5 @@
 {
-	"scraper_base_path": "/Users/jeffdh5/Desktop/fanduel/dashboard/scraper",
+	"scraper_base_path": "/Users/jeffdh5/Desktop/fanduel/fanduel-dashboard/scraper",
 	"schedule_in": "misc/15-16schedule.xls",
 	"schedule_out": "misc/15-16schedule.json",
 	"acronym_mapping_in": "misc/acronym_mapping.csv",

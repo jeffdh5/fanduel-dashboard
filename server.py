@@ -88,6 +88,6 @@ def send_js(filename):
 	print("here")
 	return static_file(filename, '')
 
-run(host='localhost', port=8080, debug=True)
+run(host='0.0.0.0', port=8080, debug=True)
 
 #print query_core_lineup('GSW@HOU10/30/2015')
